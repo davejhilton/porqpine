@@ -5,6 +5,7 @@
   "main": "src/mongoWrapper.js",
   "dependencies": {
     "bluebird": "^2.2.2",
+    "lodash": "^2.4.1",
     "mongodb": "^1.4.7"
   },
   "devDependencies": {
