@@ -1,6 +1,6 @@
 {
   "name": "porqpine",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A module that acts as a simple wrapper around mongodb connections, and Promisifies all the functions on the native mongodb.Collection and mongodb.MongoClient",
   "main": "src/mongoWrapper.js",
   "dependencies": {
