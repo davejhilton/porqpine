@@ -142,6 +142,10 @@ exports.buildConnectionString = function(conf) {
 	return string;
 };
 
+exports.getMongoInstance = function() {
+	return mongo;
+};
+
 function getConnectionOptions(conf) {
 	return {
 		server: {
